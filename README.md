@@ -1,6 +1,6 @@
 # conf
 
-A highly customizable configuration repository by [ahmed-tarek2023] for various tools, shells, and environments. This repo is designed to enhance and personalize the development and desktop experience through scripts, themes, and settings.
+A highly customizable configuration repository for various tools, shells, and environments. This repo is designed to enhance and personalize the development and desktop experience through scripts, themes, and settings.
 
 ## Table of Contents
 
